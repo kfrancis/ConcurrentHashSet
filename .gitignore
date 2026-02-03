@@ -3,3 +3,6 @@ bin/
 obj/
 
 ConcurrentCollections.xml
+*.coverage
+.claude/settings.local.json
+coverage.xml
